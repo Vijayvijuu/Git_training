@@ -1,1 +1,3 @@
-hi this is 2nd file
+hi this is 2nd fil
+
+editing the same for checking whethere its in sync if we modified
