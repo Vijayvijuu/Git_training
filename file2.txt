@@ -4,3 +4,4 @@ hi
 dude
 
 editing the same for checking whethere its in sync if we modified
+this is for stash
